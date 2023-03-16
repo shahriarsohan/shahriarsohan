@@ -8,7 +8,7 @@
 ---
 
 - 🔭 I’m the founder and CTO @redshop
-- 🌱 I’m currently learning **Python - Blockchain**
+- 🌱 I’m currently learning **Golang - Blockchain**
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
