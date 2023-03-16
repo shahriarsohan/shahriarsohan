@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
-[Linkdin](https://www.linkedin.com/in/sohan-dev/)
+[Linkedin](https://www.linkedin.com/in/sohan-dev/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarsohan&layout=compact&theme=dark&hide_border=true)
 
